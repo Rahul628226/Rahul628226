@@ -12,7 +12,7 @@
 
 
 ### Connect with me:
-<img src="https://fdn.gsmarena.com/imgroot/news/19/10/instagram-dark-mode-official/-1220x526/gsmarena_008.jpg" alt="python" width="25" height="25" />
+<img src="https://linkedin.com/in/codeSTACKr#gh-light-mode-only" alt="python" width="25" height="25" />
 
 
 <h2>🚀 Some Tools I Use..</h2>
