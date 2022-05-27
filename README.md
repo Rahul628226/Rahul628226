@@ -34,23 +34,13 @@
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 </p><br>
 
-
-
-
-
 <details>
-
-
-  <summary>:zap: GitHub Status</summary>
+<summary>:zap: GitHub Status</summary>
 
   <img align="left" alt="Rahul GitHub Status" src="https://github-readme-stats.vercel.app/api?username=Rahul628226&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
 </details>
-   <br>
-   <details>
-
-
-  <summary>:zap: Top used language</summary>
+ <details>
+<summary>:zap: Top used language</summary>
 
    <img align="left" alt="Most language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul628226&theme=tokyonight"/>
    </details>
