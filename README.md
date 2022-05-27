@@ -16,13 +16,7 @@ Hi there, I'm Rahul 👋
 <h2>🚀 Some Tools I Use..</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25" />
-
- (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="25" height="25" />)
-
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a>
- (<img src="https://fishshell.com/assets/img/Terminal_Logo2_CRT_Flat.png" alt="fish-shell" width="25" height="25" />)
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="25" height="25" />
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  (<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png" alt="manjaro linux" width="25" height="25" />)
