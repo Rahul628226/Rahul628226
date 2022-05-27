@@ -1,6 +1,7 @@
-Hi there, I'm Rahul 👋 
+<h2>Hello, I'am Rahul C V<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<p>I'm  a first year MCA student <strong><a href="https://cev.ac.in/">@CEV Vadakara</a></strong>.</p> 
 
-## I'm a Student and Developer !!
+
 - 🔭 i'm currently working on a Flutter project
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
