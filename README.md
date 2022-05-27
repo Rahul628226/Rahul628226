@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://instagram.com/__rahul_cv" target="blank"><img src="https://image.similarpng.com/very-thumbnail/2020/05/Glossy-Instagram-icon-PNG.png" alt="instagram" width="40" height="40" /></a>
 <a href="https://twitter.com/cv89599063" target="blank"><img src="https://t4.ftcdn.net/jpg/04/83/36/97/360_F_483369745_d9uQmdRaUGrZjuZC95rh10o64eYunK6c.jpg" alt="twitter" width="40" height="40"/></a>
- <a href="www.linkedin.com/in/rahul-c-v-4b2260240" target="blank"><img src="https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png" alt="linkedin" width="40" height="40"/></a>
+ <a href="https://inkedin.com/in/rahul-c-v-4b2260240" target="blank"><img src="https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png" alt="linkedin" width="40" height="40"/></a>
 
 </p>
 <h2>🚀 Some Tools I Use..</h2>
