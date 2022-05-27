@@ -26,10 +26,10 @@ Hi there, I'm Rahul 👋
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#156](https://github.com/Rahul628226/create-10k-nft-collection/issues/156) in [Rahul](https://github.com/Rahul6282/create-10k-nft-collection)
-2. 🎉 Merged PR [#156](https://github.com/Rahul6282/create-10k-nft-collection/pull/156) in [Rahul](https://github.com/Rahul6282/create-10k-nft-collection)
-3. ❌ Closed PR [#44](https://github.com/Rahul6282/minter-dapp/pull/44) in [Rahul628226/minter-dapp](https://github.com/Rahul628226/minter-dapp)
-4. 🗣 Commented on [#44](https://github.com/Rahul628226/minter-dapp/issues/44) in [Rahul628226/minter-dapp](https://github.com/Rahul628226/minter-dapp)
-5. ❌ Closed PR [#45](https://github.com/Rahul628226/minter-dapp/pull/45) in [Rahul628226/minter-dapp](https://github.com/Rahul628226/minter-dapp)
+2. 🎉 Merged PR [#156](https://github.com/Rahul6282/create-10k-nft-collection/pull) in [Rahul](https://github.com/Rahul6282)
+3. ❌ Closed PR [#44](https://github.com/Rahul6282/minter-dapp/pull) in [Rahul628226/minter-dapp](https://github.com/Rahul628226)
+4. 🗣 Commented on [#44](https://github.com/Rahul628226/minter-dapp/issues) in [Rahul628226](https://github.com/Rahul628226)
+5. ❌ Closed PR [#45](https://github.com/Rahul628226/minter-dapp/pull) in [Rahul628226](https://github.com/Rahul628226)
 <!--END_SECTION:activity-->
 
 </details>
