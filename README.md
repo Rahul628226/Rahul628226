@@ -28,6 +28,6 @@ Hi there, I'm Rahul 👋
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 </p>
 
-[![Niranjan CK github stats](https://github-readme-stats.vercel.app/api?username=Rahul628226&count_private=true&show_icons=true&theme=algolia)](https://github.com/Rahul628226)
+[![rahul C V github stats](https://github-readme-stats.vercel.app/api?username=Rahul628226&count_private=true&show_icons=true&theme=algolia)](https://github.com/Rahul628226)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulcv628226&theme=tokyonight)
