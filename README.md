@@ -43,8 +43,8 @@
   <img align="left" alt="Rahul GitHub Status" src="https://github-readme-stats.vercel.app/api?username=Rahul628226&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </div>
-   
-   
+   <br>
+   <details>
  
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -55,4 +55,4 @@
 4. 🗣 Commented on [](https://github.com/Rahul628226) in [Rahul628226](https://github.com/Rahul628226)
 5. ❌ Closed PR [](https://github.com/Rahul628226) in [Rahul628226](https://github.com/Rahul628226)
 <!--END_SECTION:activity-->
-
+</details>
