@@ -20,8 +20,8 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="25" height="25" />
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- (<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png" alt="manjaro linux" width="25" height="25" />)
- (<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />)
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png" alt="manjaro linux" width="25" height="25" />
+ <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 </p>
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
