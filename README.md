@@ -12,9 +12,10 @@
 
 
 ### Connect with me:
+<p align="left">
 <img src="https://image.similarpng.com/very-thumbnail/2020/05/Glossy-Instagram-icon-PNG.png" alt="instagram" width="40" height="40" />
 <img src="https://t4.ftcdn.net/jpg/04/83/36/97/360_F_483369745_d9uQmdRaUGrZjuZC95rh10o64eYunK6c.jpg" alt="twitter" width="40" height="40"/>
-<img src="https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png" alt="linkedin" width="40" height="40"/>
+<img src="https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png" alt="linkedin" width="40" height="40"/></p>
 <h2>🚀 Some Tools I Use..</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25" />
