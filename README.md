@@ -11,6 +11,8 @@ Hi there, I'm Rahul 👋
 
 
 ### Connect with me:
+
+
 <h2>🚀 Some Tools I Use..</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25" />
@@ -18,16 +20,17 @@ Hi there, I'm Rahul 👋
 [comment]: <> (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="25" height="25" />)
 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://vuejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a>
-
-[comment]: <> (<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png" alt="manjaro linux" width="25" height="25" />)
 [comment]: <> (<img src="https://fishshell.com/assets/img/Terminal_Logo2_CRT_Flat.png" alt="fish-shell" width="25" height="25" />)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="25" height="25" />
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+ [comment]: <> (<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png" alt="manjaro linux" width="25" height="25" />)
 </p>
 
-[![rahul C V github stats](https://github-readme-stats.vercel.app/api?username=Rahul628226&count_private=true&show_icons=true&theme=algolia)](https://github.com/Rahul628226)
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulcv628226&theme=tokyonight)
+  <img align="left" alt="Rahul GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rahul628226&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
