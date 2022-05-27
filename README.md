@@ -47,7 +47,7 @@
 
 </details>
    <br>
-   <div>
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul628226&theme=tokyonight)
    <details>
  
   <summary>:zap: Recent GitHub Activity</summary>
@@ -59,4 +59,4 @@
 4. 🗣 Commented on [](https://github.com/Rahul628226) in [Rahul628226](https://github.com/Rahul628226)
 5. ❌ Closed PR [](https://github.com/Rahul628226) in [Rahul628226](https://github.com/Rahul628226)
 <!--END_SECTION:activity-->
-</details></div>
+</details>
