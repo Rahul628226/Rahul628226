@@ -28,7 +28,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
-</p>
+</p><br>
 
 
 
@@ -45,7 +45,7 @@
 </div>
    
    
-   <details>
+ 
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -56,4 +56,3 @@
 5. ❌ Closed PR [](https://github.com/Rahul628226) in [Rahul628226](https://github.com/Rahul628226)
 <!--END_SECTION:activity-->
 
-</details>
