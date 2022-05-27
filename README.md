@@ -47,7 +47,13 @@
 
 </details>
    <br>
+   <details>
+
+
+  <summary>:zap: Top used language</summary>
+
    <img align="left" alt="Most language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul628226&theme=tokyonight"/>
+   </details>
    <details>
  
   <summary>:zap: Recent GitHub Activity</summary>
