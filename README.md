@@ -47,7 +47,7 @@
 
 </details>
    <br>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul628226&theme=tokyonight)
+   <img align="left" alt="Most language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul628226&theme=tokyonight"/>
    <details>
  
   <summary>:zap: Recent GitHub Activity</summary>
