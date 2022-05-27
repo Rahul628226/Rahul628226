@@ -21,7 +21,18 @@ Hi there, I'm Rahul 👋
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  (<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png" alt="manjaro linux" width="25" height="25" />)
 </p>
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#156](https://github.com/Rahul628226/create-10k-nft-collection/issues/156) in [Rahul](https://github.com/Rahul6282/create-10k-nft-collection)
+2. 🎉 Merged PR [#156](https://github.com/Rahul6282/create-10k-nft-collection/pull/156) in [Rahul](https://github.com/Rahul6282/create-10k-nft-collection)
+3. ❌ Closed PR [#44](https://github.com/Rahul6282/minter-dapp/pull/44) in [Rahul628226/minter-dapp](https://github.com/Rahul628226/minter-dapp)
+4. 🗣 Commented on [#44](https://github.com/Rahul628226/minter-dapp/issues/44) in [Rahul628226/minter-dapp](https://github.com/Rahul628226/minter-dapp)
+5. ❌ Closed PR [#45](https://github.com/Rahul628226/minter-dapp/pull/45) in [Rahul628226/minter-dapp](https://github.com/Rahul628226/minter-dapp)
+<!--END_SECTION:activity-->
 
+</details>
 <details>
   <summary>:zap: GitHub Stats</summary>
 
