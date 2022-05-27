@@ -12,7 +12,7 @@
 
 
 ### Connect with me:
-<img src="https://linkedin.com/in/codeSTACKr#gh-light-mode-only" alt="python" width="25" height="25" />
+<img src="https://image.similarpng.com/very-thumbnail/2020/05/Glossy-Instagram-icon-PNG.png" alt="python" width="40" height="40" />
 
 
 <h2>🚀 Some Tools I Use..</h2>
