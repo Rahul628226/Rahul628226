@@ -8,7 +8,7 @@
 - 📫 How to reach me:**rahulcv447@gmail.com**
 -  💬 Ask me about ...
 - 🥅 2022 Goals: Learn more about flutter
-- ⚡ Fun fact: I love music and playing cricket
+- ⚡ Fun fact: I love music and playing football  
 
 
 ### Connect with me:
@@ -36,7 +36,7 @@
 </p><br>
 
 <details>
-<summary>:zap: GitHub Status</summary>
+<summary>:zap: GitHub Status </summary>
 
   <img align="left" alt="Rahul GitHub Status" src="https://github-readme-stats.vercel.app/api?username=Rahul628226&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </details>
