@@ -1,13 +1,12 @@
 <h2>Hello, I'am Rahul C V<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<p>I'm  a first year MCA student <strong><a href="https://cev.ac.in/">@CEV Vadakara</a></strong>.</p> 
+<p>I'm  a final year MCA student <strong><a href="https://cev.ac.in/">@CEV Vadakara</a></strong>.</p> 
 
 
-- 🔭 i'm currently working on a Flutter project
+- 🔭 i'm currently working on a Django project
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me:**rahulcv447@gmail.com**
 -  💬 Ask me about ...
-- 🥅 2022 Goals: Learn more about flutter
 - ⚡ Fun fact: I love music and playing football  
 
 
